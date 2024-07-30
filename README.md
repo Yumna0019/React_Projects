@@ -6,8 +6,8 @@ Welcome to the land of React magic, where components come to life and user inter
 
 | 🌟 Project Name | ✨ Description | 🔗 Source Code | 🌐 Live Demo |
 |-----------------|----------------|----------------|--------------|
-| 🧮 **iOS-style Calculator** | A sleek and stylish calculator inspired by iOS design. Perfect for all your arithmetic needs with a delightful user experience. | [GitHub](https://github.com/Yumna0019/Calculator) | [Demo](#) |
-| 📅 **Eventify** | Your go-to event management app, built to streamline your event planning and coordination with a modern UI. | [GitHub](#) | [Demo](#) |
+| 🧮 **iOS-style Calculator** | A sleek and stylish calculator inspired by iOS design. Perfect for all your arithmetic needs with a delightful user experience. | [GitHub](https://github.com/Yumna0019/iOS-Style-Calculator) | [Demo](https://ios-style-calc.netlify.app/) |
+| 📅 **Eventify** | Your go-to event management app, built to streamline your event planning and coordination with a modern UI. | [GitHub](https://github.com/Yumna0019/Eventify) | [Demo](https://eventify-client.netlify.app/home) |
 
 
 ## Contributing
