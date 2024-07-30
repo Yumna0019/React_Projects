@@ -9,6 +9,10 @@ Welcome to the land of React magic, where components come to life and user inter
 | 🧮 **iOS-style Calculator** | A sleek and stylish calculator inspired by iOS design. Perfect for all your arithmetic needs with a delightful user experience. | [GitHub](https://github.com/Yumna0019/Calculator) | [Demo](#) |
 | 📅 **Eventify** | Your go-to event management app, built to streamline your event planning and coordination with a modern UI. | [GitHub](#) | [Demo](#) |
 
+
+## Contributing
+
+If you'd like to contribute to any of these projects, feel free to fork them and submit a pull request. Your contributions are highly appreciated and will help improve these projects for everyone. Let's build something amazing together! 🚀
+
 ---
 Happy coding and exploring! 😊
----
