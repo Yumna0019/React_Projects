@@ -7,7 +7,7 @@ Welcome to the land of React magic, where components come to life and user inter
 | 🌟 Project Name         | ✨ Description                                                                                     | 🔗 Source Code                                                  | 🌐 Live Demo                                            |
 |-------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------|
 | 🧮 **iOS-style Calculator** | A sleek and stylish calculator inspired by iOS design. Perfect for all your arithmetic needs with a delightful user experience. | [GitHub](https://github.com/Yumna0019/iOS-Style-Calculator)     | [Demo](https://ios-style-calc.netlify.app/)             |
-| 📅 **Eventify**             | Your go-to event management app, built to streamline your event planning and coordination with a modern UI. | [GitHub](https://github.com/Yumna0019/Eventify)                | [Demo](https://eventify-client.netlify.app/home)        |
+<!--| 📅 **Eventify**             | Your go-to event management app, built to streamline your event planning and coordination with a modern UI. | [GitHub](https://github.com/Yumna0019/Eventify)                | [Demo](https://eventify-client.netlify.app/home)        |-->
 | 📝 **Dojo Blog App**        | A dynamic and responsive blog platform that lets you create, read, update, and delete blog posts with ease. | [GitHub](https://github.com/Yumna0019/Dojo-Blog-App)            | [Demo](https://dojo-blog-app-react.netlify.app/)        |
 
 ## Contributing
