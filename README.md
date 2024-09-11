@@ -19,5 +19,3 @@ If you'd like to contribute to any of these projects, feel free to fork them and
 ---
 
 Happy coding and exploring! 😊
-
----
