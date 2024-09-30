@@ -10,6 +10,7 @@ Welcome to the land of React magic, where components come to life and user inter
 | 📝 **Dojo Blog App**        | A dynamic and responsive blog platform that lets you create, read, update, and delete blog posts with ease. | [GitHub](https://github.com/Yumna0019/Dojo-Blog-App)            | [Demo](https://dojo-blog-app-react.netlify.app/)        |
 | 🌦 **Weather App**           | Stay updated with the latest weather information for any location. Displays real-time data in a clean and modern UI. | [GitHub](https://github.com/Yumna0019/Weather_App)              | [Demo](https://weather-app-reactjs-y.netlify.app/)     |
 | 💡 Advice App | Get a new piece of advice each time with this fun and interactive app. It fetches random advice and displays it beautifully. | [GitHub](https://github.com/Yumna0019/Advice-App)   | [Demo](https://aadvice-app.netlify.app/)    |
+| ❓ Quiz App               | A fun and interactive quiz app, allowing users to test their knowledge on various topics. | [GitHub](#)     | [Demo](#)    |
 
 
 
