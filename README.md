@@ -9,8 +9,8 @@ Welcome to the land of React magic, where components come to life and user inter
 | 🧮 **iOS-style Calculator** | A sleek and stylish calculator inspired by iOS design. Perfect for all your arithmetic needs with a delightful user experience. | [GitHub](https://github.com/Yumna0019/iOS-Style-Calculator)     | [Demo](https://ios-style-calc.netlify.app/)             |
 | 🌦 **Weather App**           | Stay updated with the latest weather information for any location. Displays real-time data in a clean and modern UI. | [GitHub](https://github.com/Yumna0019/Weather_App)              | [Demo](https://weather-app-reactjs-y.netlify.app/)     |
 | 💡 **Advice App** | Get a new piece of advice each time with this fun and interactive app. It fetches random advice and displays it beautifully. | [GitHub](https://github.com/Yumna0019/Advice-App)   | [Demo](https://aadvice-app.netlify.app/)    |
-| 🎓 **Quiz App**               | A fun and interactive quiz app, allowing users to test their knowledge on various topics. | [GitHub](https://github.com/Yumna0019/Quiz-App)     | [Demo](https://quiz-react-app-y.netlify.app/)    |
-| 📝 **Dojo Blog App**        | A dynamic blog platform that lets you create, read, update, and delete blog posts with ease. | [GitHub](https://github.com/Yumna0019/Dojo-Blog-App)            | [Demo](https://dojo-blog-app-react.netlify.app/)        |
+|- 🎓 **Quiz App**               | A fun and interactive quiz app, allowing users to test their knowledge on various topics. | [GitHub](https://github.com/Yumna0019/Quiz-App)     | [Demo](https://quiz-react-app-y.netlify.app/)    |
+|- 📝 **Dojo Blog App**        | A dynamic blog platform that lets you create, read, update, and delete blog posts with ease. | [GitHub](https://github.com/Yumna0019/Dojo-Blog-App)            | [Demo](https://dojo-blog-app-react.netlify.app/)        |
 
 
 
