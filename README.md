@@ -1,4 +1,4 @@
-# 🎨 React Projects Showcase 🌈
+# 🎨 React Projects Showcase 
 
 Welcome to the land of React magic, where components come to life and user interfaces are crafted with passion and creativity. Each project in this repository is a testament to the power of React, showcasing diverse applications and innovative solutions. Whether you're here to learn, contribute, or simply explore, there's a React adventure waiting for you! 🚀
 
